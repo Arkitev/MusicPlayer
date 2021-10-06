@@ -1,2 +1,4 @@
 # Music-Player
-Simple music player with listing the songs from the sd card.
+Simple music player for Android with listing songs from sd card.
+(College Project)
+
